@@ -59,14 +59,14 @@ h1 {
 
 /*Símbolos*/
 
-.xp {
+.x {
   font-size: 65px;
   color: red;
   display: inline-block;
   line-height: 100px;
 }
 
-.op {
+.o {
   width: 50px;
   height: 50px;
   border: 5px solid green;
